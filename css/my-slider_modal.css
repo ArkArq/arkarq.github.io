@@ -284,7 +284,7 @@ p.ism-badge a.ism-link:hover {
 /* SLIDER */
 
 #my-slider {
-    width: 940px;
+    width: 100%;
     -webkit-border-radius: 5px; border-radius: 5px; 
 }
 
@@ -615,7 +615,7 @@ p.ism-badge a.ism-link:hover {
 }
 /*----------------------------------------SLIDER 2-----------------------------------------------------------*/
 #my-slider2 {
-    width: 940px;
+    width: 100%;
     -webkit-border-radius: 5px; border-radius: 5px; 
 }
 
@@ -997,7 +997,7 @@ p.ism-badge a.ism-link:hover {
 
 /*----------------------------------------SLIDER 3-----------------------------------------------------------*/
 #my-slider3 {
-    width: 940px;
+    width: 100%;
     -webkit-border-radius: 5px; border-radius: 5px; 
 }
 
@@ -1228,7 +1228,7 @@ p.ism-badge a.ism-link:hover {
 
 /*----------------------------------------SLIDER 4-----------------------------------------------------------*/
 #my-slider4 {
-    width: 940px;
+    width: 100%;
     -webkit-border-radius: 5px; border-radius: 5px; 
 }
 
@@ -1459,7 +1459,7 @@ p.ism-badge a.ism-link:hover {
 
 /*----------------------------------------SLIDER 5-----------------------------------------------------------*/
 #my-slider5 {
-    width: 940px;
+    width: 100%;
     -webkit-border-radius: 5px; border-radius: 5px; 
 }
 
