@@ -1,3 +1,38 @@
+@media (max-width: 770px) {
+  #slider-ark .ism-slide-0 .ism-caption-0{
+    font-size: 0.8em !important;   
+  }
+  #slider-ark .ism-slide-1 .ism-caption-0{
+    font-size: 0.8em !important;   
+  }
+  #slider-ark .ism-slide-2 .ism-caption-0{
+    font-size: 0.8em !important;   
+  }
+  #slider-ark .ism-slide-3 .ism-caption-0{
+    font-size: 0.8em !important;   
+  }
+  #slider-ark .ism-slide-4 .ism-caption-0{
+    font-size: 0.8em !important;   
+  }
+  #slider-ark .ism-slide-5 .ism-caption-0{
+    font-size: 0.8em !important;   
+  }
+  #slider-ark .ism-slide-6 .ism-caption-0{
+    font-size: 0.8em !important;   
+  }
+  #slider-ark .ism-slide-7 .ism-caption-0{
+    font-size: 0.8em !important;   
+  }
+  #slider-ark .ism-slide-8 .ism-caption-0{
+    font-size: 0.8em !important;   
+  }
+  #slider-ark .ism-slide-9 .ism-caption-0{
+    font-size: 0.8em !important;   
+  }
+  #slider-ark .ism-slide-10 .ism-caption-0{
+    font-size: 0.8em !important;   
+  }
+}
 .ism-slider > ol, .ism-slider > ol > li, .ism-slider > ol > li > img { width: 100%; list-style: none; margin: 0; padding: 0; }
 .ism-slider {
   overflow: hidden;
@@ -44,7 +79,7 @@
   bottom: 0;
   margin: 0 !important;
   padding: 0 !important;
-  background-color: #d5d5d5;
+  
   text-align: center;
 }
 
@@ -589,6 +624,7 @@ p.ism-badge a.ism-link:hover {
     color: #fff; background-color: rgba(0, 0, 0, 0.70);
 }
 
+
 #slider-ark .ism-slide-0 .ism-caption-1 {
     font-size: 1.25em;
     font-family: sans-serif;
@@ -900,3 +936,4 @@ p.ism-badge a.ism-link:hover {
     border: none;
     color: #fff; background-color: rgba(0, 0, 0, 0.70);
 }
+

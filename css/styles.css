@@ -1,3 +1,20 @@
+@media (max-width: 770px) {
+  .btn-xl{
+    opacity: 0.8;   
+    font-size: 0.8em !important;
+    width: 120px;
+    height: 41px;
+    padding: 0.8em 1em !important;
+  }
+
+  header.masthead {
+  padding-top: 12.5rem !important;
+  padding-bottom: 13rem !important;
+  background-image: url("../assets/img/header2.png") !important;
+
+  }
+  
+}
 @charset "UTF-8";
 
 :root {
@@ -525,6 +542,13 @@ progress {
 @media (min-width: 1200px) {
   .display-3 {
     font-size: 4rem;
+  }
+}
+@media only screen and (max-width: 760  px) {
+    
+  .btn-xl {
+    opacity: 0.5;
+    
   }
 }
 
